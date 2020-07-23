@@ -34,5 +34,5 @@ export default () => ({
 });
 ```
 ---
-
+![varuogm's github stats](https://github-readme-stats.vercel.app/api?username=chandresh189&show_icons=true&hide_border=true)
 📝 work in progress till then check out my other repo and contributions are welcome :shipit:
