@@ -35,4 +35,5 @@ export default () => ({
 ```
 ---
 ![varuogm's github stats](https://github-readme-stats.vercel.app/api?username=varuogm&show_icons=true&hide_border=true)
+</br>
 📝 work in progress till then check out my other repo and contributions are welcome :shipit:
