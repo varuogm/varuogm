@@ -2,16 +2,18 @@
 ### Hi there :octocat:
 
 
-**varuogm/Profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HI  Welcome to my ReadMe 🚀
+---
 
 <a href="https://twitter.com/Varougm">
-<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="centre" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gourav-majee-724b37188">
-<img align="left" alt="gourav LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="centre" alt="gourav LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://instagram.com/gourav_majee?igshid=18qwa79vomc3">
-<img align="left" alt="gourav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="centre" alt="gourav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 
 ```
 export default () => ({
@@ -22,17 +24,15 @@ export default () => ({
   technologies: {
     AR: {
       Unity: ["vuforia","blender"],
-      studio: ["snapchat:lens studio", "facebook: spark AR"]
+      studio: ["snapchat:lens studio", "facebook: spark AR"];
     },
     languages: ["C++", "C", "python"],
-    databases: ["MySQL"]
-
+    databases: ["MySQL"],
+    Add. : ["IT support","Troubleshooting"];
     },
   },
 });
 ```
+---
 
-<br >
-<br />
-
- work in progress till then watch my other repo :shipit:
+📝 work in progress till then check out my other repo and contributions are welcome :shipit:
