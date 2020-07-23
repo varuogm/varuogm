@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/varuogmlink/">
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br >
+<br />
 ![varuogm's github stats](https://github-readme-stats.vercel.app/api?username=varuogm&show_icons=true&hide_border=true)
 
  work in progress till then watch my other repo :shipit:
