@@ -1,17 +1,19 @@
-# Profile
-### Hi there :octocat:
+# Profile  :octocat:
+### Hi there, I'm [Gourav!]() 👋. 
 
 
 HI  Welcome to my ReadMe 🚀
 ---
 
+<br/>
+
 <a href="https://twitter.com/Varougm">
-<img align="centre" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left " alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gourav-majee-724b37188">
-<img align="centre" alt="gourav LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="gourav LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a href="https://instagram.com/gourav_majee?igshid=18qwa79vomc3">
-<img align="centre" alt="gourav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="gourav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
