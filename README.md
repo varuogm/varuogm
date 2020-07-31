@@ -2,7 +2,7 @@
 ### Hi there, I'm [Gourav!]() 👋. 
 
 
-HI  Welcome to my ReadMe 🚀
+Welcome to my ReadMe 🚀
 ---
 
 <br/>
