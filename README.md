@@ -29,6 +29,9 @@ export default () => ({
       Unity: ["vuforia","blender"],
       studio: ["snapchat:lens studio", "facebook: spark AR"];
     },
+    Web:{
+        HTML,CSS,JS
+    }
     languages: ["C++", "C", "python"],
     databases: ["MySQL"],
     Add. : ["IT support","Troubleshooting"];
