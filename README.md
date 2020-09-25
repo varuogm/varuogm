@@ -18,6 +18,11 @@ Welcome to my ReadMe 🚀
 </a>
 -->
 
+💜 Play my small PC ball game (version update every sunday) [here](https://github.com/varuogm/space-Ball-unity-game)
+
+💖 link to Snap creations (managed by ME and Chan) [here](https://github.com/varuogm/Snapchat-lens-creations)
+
+
 ```
 export default () => ({
   askMeAbout: [
@@ -54,9 +59,6 @@ export default () => ({
 </p>
 
 
-💜 Play my small PC ball game (version update every sunday) [here](https://github.com/varuogm/space-Ball-unity-game)
-
-💖 link to Snap creations (managed by ME and Chan) [here](https://github.com/varuogm/Snapchat-lens-creations)
 
 
 
