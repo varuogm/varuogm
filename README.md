@@ -17,7 +17,7 @@ Welcome to my ReadMe 🚀
 <img align="left" alt="gourav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 -->
-🚀 Portfolio -       [here](https://varuogm.github.io/portfolio/)   💠 Resume -  [here](https://github.com/varuogm/varuogm/blob/master/gourav%20majee%20Resume.png.pdf)
+🚀 Portfolio -       [here](https://varuogm.github.io/portfolio/)    |    💠  Resume -  [here](https://github.com/varuogm/varuogm/blob/master/gourav%20majee%20Resume.png.pdf)
 
 💜 Play my small PC ball game (version update every sunday) [here](https://github.com/varuogm/space-Ball-unity-game)
 
