@@ -23,7 +23,7 @@ Welcome to my ReadMe 🚀
 
 💖 link to Snap creations (managed by ME and @Chandresh ) [here](https://github.com/varuogm/Snapchat-lens-creations)
 
-
+check out more cool projects in the repo section .
 ### About me
 ```
 export default () => ({
