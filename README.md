@@ -37,7 +37,7 @@ export default () => ({
       studio: ["snapchat:lens studio", "facebook: spark AR"];
     },
     Web:{
-        HTML,CSS,JS
+        HTML,CSS,JS,.......(currently learning)
     }
     languages: ["C++", "C", "python"],
     databases: ["MySQL"],
