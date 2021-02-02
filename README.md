@@ -1,10 +1,8 @@
 # Profile  :octocat:
 ### Hi there, I'm [Gourav!]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
-
 Welcome to my ReadMe 🚀
 ---
-![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1)
 
 <br/>
 
@@ -25,6 +23,9 @@ Welcome to my ReadMe 🚀
 💖 link to Snap creations (managed by ME and @Chandresh ) [here](https://github.com/varuogm/Snapchat-lens-creations)
 
 check out more cool [projects](https://github.com/varuogm/Projects) in the repo section .
+
+
+![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1)
 ### About me
 ```
 export default () => ({
