@@ -4,6 +4,7 @@
 
 Welcome to my ReadMe 🚀
 ---
+![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1)
 
 <br/>
 
