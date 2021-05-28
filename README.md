@@ -16,13 +16,6 @@ Welcome to my ReadMe 🚀
 <img align="left" alt="gourav Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 -->
-##  💠  Resume -  [here](https://github.com/varuogm/varuogm/blob/master/gourav%20Resume.%20(2).pdf)
-
-💜 Play my small PC ball game (version update every sunday) [here](https://github.com/varuogm/space-Ball-unity-game)
-
-💖 link to Snap creations (managed by ME and @Chandresh ) [here](https://github.com/varuogm/Snapchat-lens-creations)
-
-// check out more cool [projects]() in the repo section .
 
 
 ![visitors](https://page-views.glitch.me/badge?page_id=username.visitor-badge.issue.1)
@@ -48,6 +41,15 @@ export default () => ({
   },
 });
 ```
+
+##  💠  Resume -  [here](https://github.com/varuogm/varuogm/blob/master/gourav%20Resume.%20(2).pdf)    💠 Stopstalk CP - [here](https://www.stopstalk.com/user/profile/gourav111)
+
+💜 Play my small PC ball game (version update every sunday) [here](https://github.com/varuogm/space-Ball-unity-game)
+
+💖 link to Snap creations (managed by ME and @Chandresh ) [here](https://github.com/varuogm/Snapchat-lens-creations)
+
+// check out more cool [projects]() in the repo section .
+
 ---
 ![varuogm's github stats](https://github-readme-stats.vercel.app/api?username=varuogm&show_icons=true&hide_border=true)
 </br>
