@@ -61,6 +61,8 @@ export default () => ({
     <a href="https://www.linkedin.com/in/gourav-majee-724b37188" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
     <a href="https://github.com/varuogm" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
     <a href="https://instagram.com/gourav_majee?igshid=18qwa79vomc3" alt="INStagram"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+      <a href="https://dev.to/varuogm/learn-react-router-like-a-pro-1a9h" alt="DEV"><img height="32" width="32" src="https://cdn.worldvectorlogo.com/logos/devto.svg" /></a>
+      <a href="https://hashnode.com/@gouravmajee" alt="Hashnode"><img height="32" width="32" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" /></a>
   </p>
 </p>
 
