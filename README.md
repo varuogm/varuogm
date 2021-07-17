@@ -25,17 +25,18 @@ export default () => ({
     "coder", "tech", "music",
     "mathematics", "curious"
   ],
+   Web:{
+        HTML,CSS,JS,MERN stack,.......(currently learning)
+    }
+    languages: ["C++", "C", "python"],
   technologies: {
     AR: {
       Unity: ["vuforia","blender"],
       studio: ["snapchat:lens studio", "facebook: spark AR"];
     },
-    Web:{
-        HTML,CSS,JS,React.......(currently learning)
-    }
-    languages: ["C++", "C", "python"],
-    databases: ["MySQL"],
-    Add. : ["IT support","Troubleshooting"];
+   
+    databases: ["MySQL ,MongoDB"],
+    Add. : ["IT support","Troubleshooting,AZ/AI certified"];
     },
   },
 });
