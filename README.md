@@ -42,7 +42,7 @@ export default () => ({
 });
 ```
 
-##  💠  Resume -  [here](https://github.com/varuogm/varuogm/blob/master/gourav%20Resume.%20(2).pdf)    💠 Stopstalk CP - [here](https://www.stopstalk.com/user/profile/gourav111)
+##  💠  Resume -  [here](https://github.com/varuogm/varuogm/blob/master/Gourav%20Majee%20-PCE18CS059.pdf)    💠 Stopstalk CP - [here](https://www.stopstalk.com/user/profile/gourav111)
 
 💜 Play my small PC ball game (version update every sunday) [here](https://github.com/varuogm/space-Ball-unity-game)
 
