@@ -5,4 +5,4 @@ Welcome to my ReadMe 🚀
 [---
 
 
-📝 work in progress till then check out my other repo and contributions are welcome :shipit:
+📝 I do experiments here and try new things :shipit:
